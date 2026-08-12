@@ -1,0 +1,10 @@
+{
+  "name": "table-tennis-video-game",
+  "version": "1.0.0",
+  "description": "A high-graphics browser table tennis game with neon lighting, particles, and responsive controls.",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "build": "node --check src/main.js"
+  }
+}
